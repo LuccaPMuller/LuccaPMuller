@@ -15,13 +15,9 @@ Movies/TV Shows: I enjoy dramas (Breaking Bad, The Last of Us, The Godfather, Th
 Games: I enjoy various genres of games, from FPSs to Metroidvanias.<br>
 Sports: I'm into weightlifting and combat sports. I've practiced Muay Thai and weightlifting, and hope to resume. Additionally, I'd like to practice Jiu-Jitsu.<br>
 
-<!--
-For when I really have status...
 <div>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LuccaPMuller&show_icons=true">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccaPmuller&layout=compact&langs-count=16">
 </div>
--->
 
 ## Social 
 <div>
@@ -30,7 +26,6 @@ For when I really have status...
   <a href="mailto:luccapmuller@gmail.com" target ="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target ="_blank"></a>
   <a href="https://www.linkedin.com/in/luccapmuller/" target ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank"></a>
   <a href="https://pt.quora.com/profile/Lucca-Paladini" target ="_blank"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" target ="_blank"></a>
-  
 </div>
 
 ## Games
@@ -43,7 +38,7 @@ For when I really have status...
 ## Skills
 
 **Lenguages & IDEs**
-
+  
 <div>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target ="_blank"></a>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target ="_blank"></a>
@@ -53,6 +48,7 @@ For when I really have status...
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target ="_blank"></a>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" target ="_blank"></a>
 </div>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccaPmuller&layout=compact&langs-count=16">
 
 **Database**
 
