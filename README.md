@@ -15,9 +15,8 @@ Movies/TV Shows: I enjoy dramas (Breaking Bad, The Last of Us, The Godfather, Th
 Games: I enjoy various genres of games, from FPSs to Metroidvanias.<br>
 Sports: I'm into weightlifting and combat sports. I've practiced Muay Thai and weightlifting, and hope to resume. Additionally, I'd like to practice Jiu-Jitsu.<br>
 
-<div>
+
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LuccaPMuller&show_icons=true">
-</div>
 
 ## Social 
 <div>
