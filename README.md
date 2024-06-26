@@ -1,6 +1,6 @@
 ## Sobre mim / About me
 PT-BR <br>
-Ola! Eu sou o Lucca, estudante de Sistemas de Informação na UNIBAVE (e espero que ser desenvolvedor no futuro).<br>
+Ola! Eu sou o Lucca, estudante de Sistemas de Informação na UNIBAVE (e espero ser desenvolvedor no futuro).<br>
 Interesses:<br>
 Leitura: Adoro livros de ficção e/ou romance (Senhor dos Aneis, As Crônicas de Narnia, Percy Jackson, Os tolos Morrem Antes, Viagem ao Centro da Terra).<br>
 Filmes/Series: Gosto de filmes e series principalmente de drama (Breaking Bad, The Last of Us, O Poderoso Chefão, Um Sonho de Liberdade, a maioria dos filmes do Martin Scorsese)<br>
