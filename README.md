@@ -16,8 +16,6 @@ Games: I enjoy various genres of games, from FPSs to Metroidvanias.<br>
 Sports: I'm into weightlifting and combat sports. I've practiced Muay Thai and weightlifting, and hope to resume. Additionally, I'd like to practice Jiu-Jitsu.<br>
 
 
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LuccaPMuller&show_icons=true">
-
 ## Social 
 <div>
   <a href="https://wa.me/5548988015357" target ="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target ="_blank"></a>
