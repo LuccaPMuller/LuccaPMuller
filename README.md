@@ -34,18 +34,23 @@ Sports: I'm into weightlifting and combat sports. I've practiced Muay Thai and w
 
 ## Skills
 
-**Lenguages & IDEs**
+**Lenguages & Dev. Softwares**
   
 <div>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target ="_blank"></a>
+  <a href="" target ="_blank"><img src="https://img.shields.io/badge/Spring-32CD32?style=for-the-badge&logo=spring&logoColor=white" target ="_blank"></a>
+  <a href="" target ="_blank"><img src="https://img.shields.io/badge/C sharp-9400D3?style=for-the-badge&logoColor=white" target ="_blank"></a>
+  <a href="" target ="_blank"><img src="https://img.shields.io/badge/.NET-4169E1?style=for-the-badge&logo=dotnet&logoColor=white" target ="_blank"></a>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target ="_blank"></a>
-  <a href="" target ="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target ="_blank"></a><br>
+  <a href="" target ="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target ="_blank"></a>
+  <a href="" target ="_blank"><img src="https://img.shields.io/badge/CSS-0078D6?style=for-the-badge&logo=css&logoColor=white" target ="_blank"></a>
+  <br>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" target ="_blank"></a>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" target ="_blank"></a>
-  <a href="" target ="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target ="_blank"></a>
+  <a href="" target ="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logoColor=white" target ="_blank"></a>
+  <a href="" target ="_blank"><img src="https://img.shields.io/badge/Visual Studio-4B0082?style=for-the-badge&logoColor=white" target ="_blank"></a>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" target ="_blank"></a>
 </div>
-<img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuccaPmuller&layout=compact&langs-count=16">
 
 **Database**
 
