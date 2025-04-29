@@ -70,6 +70,7 @@ Sports: I'm into weightlifting and combat sports. I've practiced Muay Thai and w
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logoColor=white" target ="_blank"></a>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/Visual Studio-4B0082?style=for-the-badge&logoColor=white" target ="_blank"></a>
   <br>
+  <a href="" target ="_blank"><img src="https://img.shields.io/badge/Postman-E34F26?style=for-the-badge&logo=postman&logoColor=white" target ="_blank"></a>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/DBeaver-87CEEB?style=for-the-badge&&logo=dbeaver&logoColor=black" target ="_blank"></a>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/PGAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white" target ="_blank"></a>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/SQL Developer-FF0000?style=for-the-badge&logoColor=white" target ="_blank"></a>
