@@ -82,6 +82,7 @@ Sports: I'm into weightlifting and combat sports. I've practiced Muay Thai and w
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target ="_blank"></a>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" target ="_blank"></a>
   <a href="" target ="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" target ="_blank"></a>
+  <a href="" target ="_blank"><img src="https://img.shields.io/badge/Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" target ="_blank"></a>
 </div>
 
 **Office & Others**
