@@ -7,7 +7,7 @@ Filmes/Series: Gosto de filmes e series principalmente de drama (Breaking Bad, T
 Jogos: Gosto de diversos generos de jogos, desde FPSs até Metroidvanias.<br>
 Esportes: Gosto de musculação e esportes de luta. Já pratiquei Muay Thai e musculação e espero poder voltar a praticar. Além disso, gostaria de praticar Jiu-Jitsu.<br>
 <br>
-ING<br>
+ENG<br>
 Hello! I'm Lucca, a Systems Information student at UNIBAVE (and hoping to become a developer in the future).<br>
 Interests:<br>
 Reading: I love fiction and/or romance books (Lord of the Rings, The Chronicles of Narnia, Percy Jackson, Las Vegas, Journey to the Center of the Earth).<br>
